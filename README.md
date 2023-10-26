@@ -1,4 +1,4 @@
-# Time-Series-Project-
+# Time-Series-Project
 Phase 1 : Dans cette phase, nous analysons la série temporelle en examinant la tendance, détectant les changements structurels, et évaluant la saisonnalité. Nous envisagerons différents modèles de tendance, comme les marchés aléatoires ou les modèles polynomiaux. De plus, nous explorerons les transformations potentielles pour la série originale.
 
 Phase 2 : Nous justifions nos choix pour ajuster la série temporelle, en discutant de la différenciation et de l'utilisation de formes fonctionnelles. Ensuite, nous comparons les différents modèles candidats pour représenter au mieux la série.
